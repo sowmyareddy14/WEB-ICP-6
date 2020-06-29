@@ -1,0 +1,31 @@
+.parent-container {
+  position: relative;
+  height:100%;
+  width: 100%;
+}
+
+.child-container {
+  color: white;
+  text-align: center;
+  position: center;
+  color: rgb(97, 8, 57);
+  padding-top: 50px;
+
+}
+.desc {
+  font-family: Georgia;
+  font-size: 24px;
+}
+
+.form-control{
+  font-size: 20px;
+  font-family: 'Georgia, 'Times New Roman', Times, serif';
+}
+
+
+button{
+  background-color:  rgb(97, 8, 57);
+  color: white;
+  padding: 10px;
+  
+}

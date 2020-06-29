@@ -1,0 +1,10 @@
+.image{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  background-image:url('https://i.dlpng.com/static/png/6521607_preview.png');
+  
+}
